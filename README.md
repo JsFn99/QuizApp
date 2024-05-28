@@ -4,7 +4,7 @@ This is a simple Quiz App built using Java in Android Studio. The app allows use
 
 ## Features
 
-- User authentication (Login)
+- User authentication (Login) using FireBase
 - Multiple-choice quizzes
 - Score calculation
 - User-friendly interface
@@ -24,7 +24,7 @@ This is a simple Quiz App built using Java in Android Studio. The app allows use
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/JsFn99/QuizApp
    ```
 
 2. **Open the project in Android Studio:**
@@ -62,10 +62,6 @@ This is a simple Quiz App built using Java in Android Studio. The app allows use
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
 
-For any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
-
----
 
 Feel free to customize the content as needed, such as adding more details about the features, usage, or specific installation instructions. Add the screenshots `login.png`, `quiz.png`, and `score.png` to your project's root directory or the appropriate folder where you intend to store images.
